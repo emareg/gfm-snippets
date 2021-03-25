@@ -62,7 +62,7 @@ It is important to have two spaces after the first line. Without two spaces, the
 
 
 Useful Emojis
-🔔📢🔌💡🔎📌🔑⚠⛔‼❌✔ℹ
+🔔📢🔌💡🔎📌🔑⚠⛔‼❌✔ℹ➡
 
 
 ### Math Equations
