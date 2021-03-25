@@ -19,7 +19,7 @@ Example Details *with* Markdown
 ```
 
 <details id="myownid">
-<summary><strong><a href="#myownid">mdlink</a> Example **Summary** (👆 click)</strong>
+<summary><strong><a href="#user-content-myownid">mdlink</a> Example **Summary** (👆 click)</strong>
 
 Markdown works only after **two** lines
 </summary>
