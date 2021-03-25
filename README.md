@@ -18,15 +18,28 @@ Example Details *with* Markdown
 </details>
 ```
 
-<details>
-<summary>Example **Summary** (👆 click)
+<details id="myownid">
+<summary><strong><a href="#myownid">mdlink</a> Example **Summary** (👆 click)</strong>
 
 Markdown works only after **two** lines
 </summary>
 
-Example Details *with* Markdown
+Example Details *with* Markdown.
+Why does <a href="/">mdlink</a> not work?
+
 </details>
 
+
+## HTML Elements
+Things that work: `<table>, <hX>`
+Things that do *not* work: `<a>`
+
+
+<a href=".">mdlink</a>
+
+<a href="#myownid">mdlink</a>
+
+<a href="#user-content-math-equations">mdlink</a>
 
 ### Right Aligned Figures
 <img align="right" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">This Text appears on the left and floats around the image on the right.
