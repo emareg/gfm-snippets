@@ -51,3 +51,23 @@ It is important to have two spaces after the first line. Without two spaces, the
 
 > 🔔 **Attention**  
 > This is important. 
+
+
+### Math Equations
+There are Web-APIs that produce SVG images from TeX input.
+
+```html
+<img height="64" src="https://latex.codecogs.com/svg.latex?f_X(x)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}">
+
+<img height="32" src="https://latex.codecogs.com/gif.latex?\dpi{200}\int\frac{1}{x}dx=\ln\left|x\right|+C">
+```
+The normal distribution can be expressed as
+
+<img height="64" src="https://latex.codecogs.com/svg.latex?f_X(x)=\frac{1}{\sqrt{2\pi\sigma^2}}e^{-\frac{(x-\mu)^2}{2\sigma^2}}">
+
+
+For inline euations, use `\textstyle` like in 
+<img height="24" src="https://latex.codecogs.com/gif.latex?\dpi{200}\textstyle\int\frac{1}{x}dx=\ln\left|x\right|+C">
+
+
+
