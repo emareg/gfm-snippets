@@ -83,3 +83,9 @@ For inline euations, use `\textstyle` like in
 
 
 
+### Videos
+<img src="https://www.youtube.com/watch?v=yp_bGMQnLzI">
+
+<img src="https://img.youtube.com/vi/yp_bGMQnLzI/default.jpg">
+
+
