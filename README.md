@@ -43,6 +43,7 @@ Things that do *not* work: `<a>` to unknown locations, styles
 <p align="center"> A centered text </p>
 <p align="right">Text right</p>An this text is next to right.
 
+
 <div align="right">
 <table style="width:100%">
   <tr>
@@ -64,11 +65,7 @@ Things that do *not* work: `<a>` to unknown locations, styles
 </div>
 
 
-<div align="right">
-<table><tr><td>a</td><td>b</td></tr><tr><td>a</td><td>b</td></tr></table>
-</div>
-              
-If you have a longer text on the left, will you be able to place some other content on the right side? This is an attepmt to do so
+<div align="right"><table><tr><td>a</td><td>b</td></tr><tr><td>a</td><td>b</td></tr></table></div>If you have a longer text on the left, will you be able to place some other content on the right side? This is an attepmt to do so
 
 
 
