@@ -65,7 +65,8 @@ Things that do *not* work: `<a>` to unknown locations, styles
 </div>
 
 
-<div align="right"><table><tr><td>a</td><td>b</td></tr><tr><td>a</td><td>b</td></tr></table></div>If you have a longer text on the left, will you be able to place some other content on the right side? This is an attepmt to do so
+<div align="right">This text is inside the div
+<table><tr><td>a</td><td>b</td></tr><tr><td>a</td><td>b</td></tr></table></div>If you have a longer text on the left, will you be able to place some other content on the right side? This is an attepmt to do so
 
 
 
