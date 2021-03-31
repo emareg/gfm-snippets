@@ -31,7 +31,7 @@ Why does <a href="/">mdlink</a> not work?
 
 
 ## HTML Elements
-Things that work: `<table>, <hX>`, ids
+Things that work: `<table>, <hX>`, `<img>`, ids
 
 Things that do *not* work: `<a>` to unknown locations, styles
 
@@ -41,7 +41,7 @@ Things that do *not* work: `<a>` to unknown locations, styles
 <img align="right" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">This Text appears on the left and floats around the image on the right.
 
 <p align="center"> A centered text </p>
-<p align="right">Text right</p>
+<p align="right">Text right</p>An this text is next to right.
 
 <div align="right">
 <table style="width:100%">
@@ -64,9 +64,9 @@ Things that do *not* work: `<a>` to unknown locations, styles
 </div>
 
 
-
-<table><tr><td>a</td><td>b</td></tr></table>
-
+<div align="right">
+<table><tr><td>a</td><td>b</td></tr><tr><td>a</td><td>b</td></tr></table>
+</div>
               
 If you have a longer text on the left, will you be able to place some other content on the right side? This is an attepmt to do so
 
