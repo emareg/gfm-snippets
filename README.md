@@ -40,6 +40,9 @@ Things that do *not* work: `<a>` to unknown locations, styles
 ### Right Aligned Figures
 <img align="right" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">This Text appears on the left and floats around the image on the right.
 
+<p align="center"> A centered text </p>
+<p align="right">Text right</p>
+If you have a longer text on the left, will you be able to place some other content on the right side? This is an attepmt to do so
 
 
 
