@@ -88,4 +88,6 @@ For inline euations, use `\textstyle` like in
 
 <img src="https://img.youtube.com/vi/yp_bGMQnLzI/default.jpg">
 
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
